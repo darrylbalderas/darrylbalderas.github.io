@@ -1,0 +1,55 @@
+baseurl = "http://www.example.com"
+title = "Home"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 10
+
+disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "monokai"
+
+[params]
+  author = "Darryl Balderas"
+  info = "Software Engineer - Platform"
+  description = "Darryl Balderaa's personal website"
+  keywords = "blog,developer,personal"
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+  since = 2024
+  enableTwemoji = true
+  colorScheme = "auto"
+  hidecolorschemetoggle = true
+  math = true
+  katex = true
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/darrylbalderas/"
+[[params.social]]
+  name = "Gitlab"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 2
+  url = "https://github.com/darrylbalderas/"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "/posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "/about/"
