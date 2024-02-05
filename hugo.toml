@@ -12,8 +12,9 @@ disqusShortname = "yourdiscussshortname"
 style = "monokai"
 
 [params]
+  
   author = "Darryl Balderas"
-  info = "Software Engineer - Platform"
+  info = "Software Engineer"
   description = "Darryl Balderaa's personal website"
   keywords = "blog,developer,personal"
   faviconSVG = "/img/favicon.svg"
