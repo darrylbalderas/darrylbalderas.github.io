@@ -8,27 +8,31 @@ draft = false
 
 As a Software Engineer, I love the ability to design systems and tools that help me achieve a kaizen way of life.
 
-## Goals
+## Goals for the year
 
 - Build and share
-- Setup my development environment for easier creation of my ideas
+- Setup my development environment for easier idea generation and project creation
 - Write more
 
 
 ## Interests
 
+### Technical
+
 - Kubernetes
+- Python
+- AWS
 - Golang
 - Django
 - Flutter
+
+### Personal
+
 - Philosophy
-
-
-<!-- ## Portfolio Highlights
-
-- [Project 1 Title]: [Brief Description and Impact]
-- [Project 2 Title]: [Brief Description and Impact]
-- [Project 3 Title]: [Brief Description and Impact] -->
+- Basketball
+- Swimming
+- Running
+- Finding Gifs that match my message
 
 
 ## Let's Connect
