@@ -32,14 +32,14 @@ As a Software Engineer, I love the ability to design systems and tools that help
 - Basketball
 - Swimming
 - Running
-- Finding Gifs that match my message
+- Finding GIFs that match my message
 
 
 ## Let's Connect
 
-I'm always open to new opportunities and collaborations. If you have a project in mind or just want to say hello, feel free to connect via [LinkedIn](https://www.linkedin.com/in/darrylbalderas/).
+I'm always open to new opportunities and collaborations. If you have a project in mind or want to say hello, feel free to connect via [LinkedIn](https://www.linkedin.com/in/darrylbalderas/).
 
 
 ## Thank You for Visiting!
 
-Thank you for exploring my portfolio. I'm excited about the potential for collaborations. Let's create something amazing together!
+Thank you for exploring my portfolio. I’m excited about the potential for collaborations. Let’s create something unique together!
