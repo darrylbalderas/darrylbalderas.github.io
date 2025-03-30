@@ -2,44 +2,37 @@
 date = 2024-02-04T13:58:01-08:00
 draft = false
 +++
+# About
 
-
-## Hello, I'm  Darryl Balderas
+Hello, I'm  Darryl Balderas!
 
 As a Software Engineer, I love the ability to design systems and tools that help me achieve a kaizen way of life.
 
-## Goals for the year
+## Goals for 2025
 
-- Build and share
-- Setup my development environment for easier idea generation and project creation
-- Write more
-
+1. Build more
+2. Write more
+3. Attend more conferences. Will report back in this blog about the learnings I had at the "conferences" I plan to attended.
 
 ## Interests
 
 ### Technical
 
+#### Cloud and Orchestration
+
 - Kubernetes
-- Python
 - AWS
+- GCP
+
+#### Programming languages
+
+- Python
 - Golang
-- Django
-- Flutter
-
-### Personal
-
-- Philosophy
-- Basketball
-- Swimming
-- Running
-- Finding GIFs that match my message
-
 
 ## Let's Connect
 
-I'm always open to new opportunities and collaborations. If you have a project in mind or want to say hello, feel free to connect via [LinkedIn](https://www.linkedin.com/in/darrylbalderas/).
+Always open to new opportunities and collaborations. If you have a project in mind or want to say hello, feel free to connect via [LinkedIn](https://www.linkedin.com/in/darrylbalderas/).
 
-
-## Thank You for Visiting!
+## Thank You for Visiting
 
 Thank you for exploring my portfolio. I’m excited about the potential for collaborations. Let’s create something unique together!
