@@ -12,7 +12,9 @@ As a Software Engineer, I love the ability to design systems and tools that help
 
 1. Build more
 2. Write more
-3. Attend more conferences. Will report back in this blog about the learnings I had at the "conferences" I plan to attended.
+3. Attend more conferences.
+
+**Will write about the learnings I had at the "conferences" I plan to attend to.**
 
 ## Interests
 
@@ -20,14 +22,14 @@ As a Software Engineer, I love the ability to design systems and tools that help
 
 #### Cloud and Orchestration
 
-- Kubernetes
-- AWS
-- GCP
+* Kubernetes
+* AWS
+* GCP
 
 #### Programming languages
 
-- Python
-- Golang
+* Python
+* Golang
 
 ## Let's Connect
 
