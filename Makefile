@@ -7,3 +7,5 @@ run:
 	hugo serve -D
 lint:
 	pre-commit run --all-files
+update:
+	git submodule update --remote themes/hugo-coder
