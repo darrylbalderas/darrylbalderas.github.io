@@ -4,37 +4,27 @@ draft = false
 +++
 # About
 
-Hello, I'm  Darryl Balderas!
+Hello, I'm  Darryl Balderas! I am a Software Engineer who loves to play around
+with open source tooling and a big fanatic of basketball.
 
-As a Software Engineer, I love the ability to design systems and tools that help me achieve a kaizen way of life.
+## Goals
 
-## Goals for 2025
-
-1. Build more
-2. Write more
-3. Attend more conferences.
-
-**Will write about the learnings I had at the "conferences" I plan to attend to.**
+1. Build and share more
+2. Connect with like-minded people
+3. Attend more tech conferences to fulfill goal 2.
 
 ## Interests
 
 ### Technical
 
-#### Cloud and Orchestration
-
-* Kubernetes
-* AWS
-* GCP
-
-#### Programming languages
-
-* Python
-* Golang
+- Cloud
+- Python and Golang
+- Homelabs
+- Mobile development
+- Microcontrollers
 
 ## Let's Connect
 
-Always open to new opportunities and collaborations. If you have a project in mind or want to say hello, feel free to connect via [LinkedIn](https://www.linkedin.com/in/darrylbalderas/).
+Always open to new opportunities and collaborations, fel free to connect via [LinkedIn](https://www.linkedin.com/in/darrylbalderas/).
 
-## Thank You for Visiting
-
-Thank you for exploring my portfolio. I’m excited about the potential for collaborations. Let’s create something unique together!
+If you made it this far, send me a message on LinkedIn about what brought you to my website.
