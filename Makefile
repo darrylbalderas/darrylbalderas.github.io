@@ -1,15 +1,13 @@
+CURRENT_DATETIME := $(shell date +"%Y%m%d")
+CURRENT_YEAR := $(shell date +"%Y")
+UNIQUEID := $(shell uuidgen | cut -c 1-8)
+
 new-post:
-	$(eval datetime := $(shell date +"%Y%m%d"))
-	$(eval year := $(shell date +"%Y"))
-	$(eval uniqueId := $(shell uuidgen | cut -c 1-8 ))
-	mkdir -p meetups/${year}
-	hugo new content posts/${year}/post_${datetime}_${uniqueId}.md
+	hugo new content posts/${CURRENT_YEAR}/post_${CURRENT_DATETIME}_${UNIQUEID}.md
 new-meetup:
-	$(eval datetime := $(shell date +"%Y%m%d"))
-	$(eval year := $(shell date +"%Y"))
-	$(eval uniqueId := $(shell uuidgen | cut -c 1-8 ))
-	mkdir -p meetups/${year}
-	hugo new content meetups/${year}/meetup_${datetime}_${uniqueId}.md
+	hugo new content meetups/${CURRENT_YEAR}/meetup_${CURRENT_DATETIME}_${UNIQUEID}.md
+new-project:
+	hugo new content projects/${CURRENT_YEAR}/project_${CURRENT_DATETIME}_${UNIQUEID}.md
 run:
 	hugo serve -D
 lint:
