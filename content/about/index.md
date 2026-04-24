@@ -5,7 +5,7 @@ draft = false
 # About
 
 Hello, I'm  Darryl Balderas! I am a Software Engineer who loves to play around
-with open source tooling and a big fanatic of basketball.
+with open source tooling and a basketball fanatic.
 
 ## Goals
 
@@ -13,9 +13,8 @@ with open source tooling and a big fanatic of basketball.
 2. Connect with like-minded people
 3. Attend more tech conferences to fulfill goal 2.
 
-## Interests
 
-### Technical
+### Technical Interests
 
 - Cloud
 - Python and Golang
@@ -27,4 +26,4 @@ with open source tooling and a big fanatic of basketball.
 
 Always open to new opportunities and collaborations, fel free to connect via [LinkedIn](https://www.linkedin.com/in/darrylbalderas/).
 
-If you made it this far, send me a message on LinkedIn about what brought you to my website.
+If you made it this far, send me a message on LinkedIn about what brought here.
