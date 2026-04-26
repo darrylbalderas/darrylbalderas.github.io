@@ -28,6 +28,7 @@ style = "monokai"
   hidecolorschemetoggle = true
   math = true
   katex = true
+  avatarURL = "images/avatar.png"
 
 [taxonomies]
   category = "categories"
